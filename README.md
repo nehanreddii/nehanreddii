@@ -8,7 +8,7 @@
 
 🌟 Skilled in dissecting datasets and crafting compelling reports.
 
-🔗 Let’s connect and embark on a data-driven journey together! Reach me on LinkedIn.
+🔗 Let’s connect and embark on a data-driven journey together! Reach me on LinkedIn-https://www.linkedin.com/in/nhnrdy/.
 
 
 <!---
