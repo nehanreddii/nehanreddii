@@ -1,8 +1,14 @@
--  Hi, I’m @nehanreddii
--  I’m interested in data analytics 
--  I’m currently learning tools like my sql, power bi, excel 
--  I’m looking to collaborate on data analysis related internships and job roles 
--  reach me ...through linkedin https://www.linkedin.com/in/nhnrdy/
+👋 Hi, I’m @nehanreddii!
+
+📊 Passionate about data analytics; specializing in MySQL, Power BI, and Excel.
+
+🔍 Actively seeking collaborations on data analysis internships and job roles.
+
+💡 Dedicated to uncovering insights that drive meaningful decisions.
+
+🌟 Skilled in dissecting datasets and crafting compelling reports.
+
+🔗 Let’s connect and embark on a data-driven journey together! Reach me on LinkedIn.
 
 
 <!---
